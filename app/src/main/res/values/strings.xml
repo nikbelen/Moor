@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moor(101)</string>
+    <string name="img_btn_clicked">You clicked ImageButton</string>
+    <string name="pSkip">You Skip a Turn</string>
+    <string name="aiSkip">The AI Skips A Turn</string>
+    <string name="cant_play">Cant Play This Card</string>
+    <string name="wait_turn">It Is Not Your Turn</string>
+</resources>
